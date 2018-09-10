@@ -1,0 +1,19 @@
+{
+    "station":
+    [
+    {
+     "name": "Classic Rock",
+     "streamURL": "http://rfcmedia.streamguys1.com/classicrock.mp3",
+     "imageURL": "station-classicrock",
+     "desc": "Classic Rock Hits",
+     "longDesc": "Classic rock is a radio format which developed from the album-oriented rock (AOR) format in the early 1980s. In the United States, the classic rock format features music ranging generally from the late 1960s to the late 1980s, primarily focusing on commercially successful hard rock popularized in the 1970s. The radio format became increasingly popular with the baby boomer demographic by the end of the 1990s."
+     },
+     {
+     "name": "KBJS 90.3",
+     "streamURL": "http://ic2.christiannetcast.com/kbjs-fm",
+     "imageURL": "station-christian",
+     "desc": "KBJS - Jacksonville, TX",
+     "longDesc": "KBJS is your Bible-teaching station! We invite you to visit us for a fresh Word, and stay for life!"
+     }
+    ]
+}
